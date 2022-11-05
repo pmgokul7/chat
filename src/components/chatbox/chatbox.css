@@ -1,0 +1,14 @@
+.chatbox{
+    background-color: #fff;
+    width: 70%;
+    position: absolute;
+    top: 7%;
+    bottom:7%;
+    left: 0;
+     height:inherit; display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageshow{
+    display: none;
+}
